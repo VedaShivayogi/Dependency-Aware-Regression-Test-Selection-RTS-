@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependency-Aware Regression Test Selection for AI-Assisted Python Code Changes
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
@@ -184,3 +185,6 @@ dependency-aware-testing/
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
+=======
+# Dependency-Aware-Regression-Test-Selection-RTS-
+>>>>>>> 092ebc94959f1554d882ebef6a2f07f2b8e06d2f
